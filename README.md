@@ -1,9 +1,12 @@
 # rc-cluster-jdk
-这是一个从Java JDK8学习的集合项目，主要包含个新JDK提供新特性以及部分源码的学习笔记
+这是一个从Java JDK学习的集合项目，主要包含个新JDK提供新特性以及部分源码的学习笔记
 
 ```
 rc-cluster-jdk
-    ├── basics          # Java基础
+    ├── basics/         # Java基础
+    │   ├── elementary      # 初级
+    │   ├── intermediate    # 中级
+    │   └── advanced        # 高级
     ├── jdk8            # JDK8
     ├── jdk9            # JDK9
     ├── jdk10           # JDK10
